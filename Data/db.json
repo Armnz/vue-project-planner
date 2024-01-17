@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner New",
+      "details": "Lorem ipsum asdfasdf asdfasdfweasdfsd s ",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Make marketing email + snail mail",
+      "details": "Lorem ipsum sfsdaf sadfasdf sdffsdf\nsdfsadfas\nasdfsdfsadfsfsdf.",
+      "complete": true
+    },
+    {
+      "title": "Test.",
+      "details": "Test Test!",
+      "complete": true,
+      "id": 3
+    }
+  ]
+}
